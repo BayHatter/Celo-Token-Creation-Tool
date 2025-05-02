@@ -211,7 +211,7 @@ export default function CeloForm({ provider, account, connectWallet }) {
         <ol className="list-decimal list-inside text-black font-sans font-bold space-y-2">
           <li>First Connect Your Metamask Wallet By Using Above Right Side Connect Button.</li>
           <li>
-            Switch Your MetaMask Network to Celo. If The Celo Network Isn’t Showing On Metamask, You Can Add It As Your Custom Network. You Can Visit This Link For Getting RPC, Chain Id etc. Details <a href="https://chainlist.org/chain/1" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">https://chainlist.org/chain/1</a>, After Getting These Values You Can Add It As Custom Network.
+            Switch Your MetaMask Network to Celo. If The Celo Network Isn’t Showing On Metamask, You Can Add It As Your Custom Network. You Can Visit This Link For Getting RPC, Chain Id etc. Details <a href="https://chainlist.org/chain/42220" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">https://chainlist.org/chain/42220</a>, After Getting These Values You Can Add It As Custom Network.
           </li>
           <li>Fill Up The Form With Token Name, Symbol, Token Supply, These Are The Required Things. (Minting, Enable and Unlimited Supply) optional</li>
           <li>Once Ready, Press the "Create Token" Button. This Will Prompt MetaMask To Initiate Three Transactions: (1) User Fee, (2) Platform Fee, (3) Contract Deployment. Approve Each to Proceed.</li>
